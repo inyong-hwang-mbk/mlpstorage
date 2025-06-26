@@ -1,0 +1,28 @@
+[OUTPUT] 2025-06-04T11:04:52.352074 Running DLIO [Checkpointing] with 8 process(es)
+[OUTPUT] 2025-06-04T11:04:52.390655 Total number of parameters in the model: 8030261248
+[OUTPUT] 2025-06-04T11:05:09.864206 Model size: 14.957527 GB 
+[OUTPUT] 2025-06-04T11:05:09.865016 Optimizer state size: 89.746994 GB 
+[OUTPUT] 2025-06-04T11:05:09.865080 Total checkpoint size: 104.704521 GB 
+[OUTPUT] 2025-06-04T11:05:09.865219 Checkpointing write started
+[OUTPUT] 2025-06-04T11:05:14.870299 Starting saving checkpoint 1 after total step 1 for epoch 1
+[OUTPUT] 2025-06-04T11:05:18.527631 Saved model checkpoint in 3.6571 seconds
+[OUTPUT] 2025-06-04T11:05:35.606165 Saved optimizer checkpoint in 17.0783 seconds
+[OUTPUT] 2025-06-04T11:05:35.606879 Finished saving checkpoint 1 for epoch 1 in 20.7366 s; Throughput: 5.0493 GB/s
+[OUTPUT] 2025-06-04T11:05:35.609772 Checkpointing write finished
+[OUTPUT] 2025-06-04T11:05:35.609831 Checkpointing read started
+[OUTPUT] 2025-06-04T11:05:40.614883 Starting loading checkpoint 1 after total step 1 for epoch 1
+[OUTPUT] 2025-06-04T11:05:42.446523 Loaded model checkpoint in 1.8315 seconds
+[OUTPUT] 2025-06-04T11:05:50.373680 Loaded optimizer checkpoint in 7.9270 seconds
+[OUTPUT] 2025-06-04T11:05:50.374001 Finished loading checkpoint 1 for epoch 1 in 9.7591 s; Throughput: 10.7289 GB/s
+[OUTPUT] 2025-06-04T11:05:50.375553 Checkpointing write started
+[OUTPUT] 2025-06-04T11:05:50.968301 Saved outputs in /home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110434
+[OUTPUT] Averaged metric over all steps/epochs
+[METRIC] ==========================================================
+[METRIC] Number of Simulated Accelerators: 8 
+[METRIC] Checkpoint save duration (seconds): 20.7366 (0.0000)
+[METRIC] Checkpoint save I/O Throughput (GB/second): 5.0493 (0.0000)
+[METRIC] Checkpoint load duration (seconds): 9.7591 (0.0000)
+[METRIC] Checkpoint load I/O Throughput (GB/second): 10.7289 (0.0000)
+[METRIC] ==========================================================
+
+[OUTPUT] 2025-06-04T11:05:50.978972 outputs saved in RANKID_output.json

@@ -1,0 +1,156 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750643597.477030 2739153 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750643597.477023 2739181 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750643597.477035 2739245 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750643597.476906 2739050 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750643597.477148 2739051 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750643597.476907 2739052 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750643597.477143 2739053 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750643597.477107 2739373 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1750643597.610969 2739245 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750643597.610864 2739153 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750643597.610953 2739181 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750643597.610952 2739373 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750643597.611027 2739052 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750643597.610994 2739050 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750643597.611062 2739051 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750643597.611094 2739053 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+W0000 00:00:1750643598.767195 2739153 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767233 2739153 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767235 2739153 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767237 2739153 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767316 2739053 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767372 2739053 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767379 2739053 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767384 2739053 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767337 2739245 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767402 2739245 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767408 2739245 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767413 2739245 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767415 2739373 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767464 2739373 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767467 2739373 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767473 2739373 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767417 2739051 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767473 2739051 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767479 2739051 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767486 2739051 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767443 2739181 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767475 2739181 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767477 2739181 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767478 2739181 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767469 2739052 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767529 2739052 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767536 2739052 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767552 2739052 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767462 2739050 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767529 2739050 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767536 2739050 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750643598.767541 2739050 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+[OUTPUT] 2025-06-23T01:53:38.438480 Running DLIO [Checkpointing] with 8 process(es)
+[OUTPUT] 2025-06-23T01:53:38.481301 Total number of parameters in the model: 8030261248
+[OUTPUT] 2025-06-23T01:54:02.172229 Model size: 14.957527 GB 
+[OUTPUT] 2025-06-23T01:54:02.172915 Optimizer state size: 89.746994 GB 
+[OUTPUT] 2025-06-23T01:54:02.172973 Total checkpoint size: 104.704521 GB 
+[OUTPUT] 2025-06-23T01:54:02.173042 Checkpointing write started
+[OUTPUT] 2025-06-23T01:54:07.178233 Starting saving checkpoint 1 after total step 1 for epoch 1
+[OUTPUT] 2025-06-23T01:54:10.979073 Saved model checkpoint in 3.8004 seconds
+[OUTPUT] 2025-06-23T01:54:32.206331 Saved optimizer checkpoint in 21.2271 seconds
+[OUTPUT] 2025-06-23T01:54:32.206903 Finished saving checkpoint 1 for epoch 1 in 25.0287 s; Throughput: 4.1834 GB/s
+[OUTPUT] 2025-06-23T01:54:39.783831 Starting saving checkpoint 2 after total step 2 for epoch 1
+[OUTPUT] 2025-06-23T01:54:43.389634 Saved model checkpoint in 3.6056 seconds
+[OUTPUT] 2025-06-23T01:55:04.661910 Saved optimizer checkpoint in 21.2721 seconds
+[OUTPUT] 2025-06-23T01:55:04.662567 Finished saving checkpoint 2 for epoch 1 in 24.8787 s; Throughput: 4.2086 GB/s
+[OUTPUT] 2025-06-23T01:55:09.949039 Starting saving checkpoint 3 after total step 3 for epoch 1
+[OUTPUT] 2025-06-23T01:55:13.613033 Saved model checkpoint in 3.6630 seconds
+[OUTPUT] 2025-06-23T01:55:33.389810 Saved optimizer checkpoint in 19.7766 seconds
+[OUTPUT] 2025-06-23T01:55:33.389974 Finished saving checkpoint 3 for epoch 1 in 23.4409 s; Throughput: 4.4667 GB/s
+[OUTPUT] 2025-06-23T01:55:41.187781 Starting saving checkpoint 4 after total step 4 for epoch 1
+[OUTPUT] 2025-06-23T01:55:44.444609 Saved model checkpoint in 3.2559 seconds
+[OUTPUT] 2025-06-23T01:56:04.367902 Saved optimizer checkpoint in 19.9231 seconds
+[OUTPUT] 2025-06-23T01:56:04.368083 Finished saving checkpoint 4 for epoch 1 in 23.1803 s; Throughput: 4.5170 GB/s
+[OUTPUT] 2025-06-23T01:56:13.164357 Starting saving checkpoint 5 after total step 5 for epoch 1
+[OUTPUT] 2025-06-23T01:56:16.748525 Saved model checkpoint in 3.5832 seconds
+[OUTPUT] 2025-06-23T01:56:40.668232 Saved optimizer checkpoint in 23.9195 seconds
+[OUTPUT] 2025-06-23T01:56:40.668406 Finished saving checkpoint 5 for epoch 1 in 27.5040 s; Throughput: 3.8069 GB/s
+[OUTPUT] 2025-06-23T01:56:45.674616 Starting saving checkpoint 6 after total step 6 for epoch 1
+[OUTPUT] 2025-06-23T01:56:49.056191 Saved model checkpoint in 3.3810 seconds
+[OUTPUT] 2025-06-23T01:57:12.591735 Saved optimizer checkpoint in 23.5354 seconds
+[OUTPUT] 2025-06-23T01:57:12.591916 Finished saving checkpoint 6 for epoch 1 in 26.9173 s; Throughput: 3.8899 GB/s
+[OUTPUT] 2025-06-23T01:57:18.174185 Starting saving checkpoint 7 after total step 7 for epoch 1
+[OUTPUT] 2025-06-23T01:57:21.786964 Saved model checkpoint in 3.6119 seconds
+[OUTPUT] 2025-06-23T01:57:42.691728 Saved optimizer checkpoint in 20.9046 seconds
+[OUTPUT] 2025-06-23T01:57:42.691902 Finished saving checkpoint 7 for epoch 1 in 24.5177 s; Throughput: 4.2706 GB/s
+[OUTPUT] 2025-06-23T01:57:49.455229 Starting saving checkpoint 8 after total step 8 for epoch 1
+[OUTPUT] 2025-06-23T01:57:52.923638 Saved model checkpoint in 3.4675 seconds
+[OUTPUT] 2025-06-23T01:58:07.778557 Saved optimizer checkpoint in 14.8547 seconds
+[OUTPUT] 2025-06-23T01:58:07.778727 Finished saving checkpoint 8 for epoch 1 in 18.3235 s; Throughput: 5.7142 GB/s
+[OUTPUT] 2025-06-23T01:58:16.865142 Starting saving checkpoint 9 after total step 9 for epoch 1
+[OUTPUT] 2025-06-23T01:58:20.212957 Saved model checkpoint in 3.3469 seconds
+[OUTPUT] 2025-06-23T01:58:35.900296 Saved optimizer checkpoint in 15.6872 seconds
+[OUTPUT] 2025-06-23T01:58:35.900479 Finished saving checkpoint 9 for epoch 1 in 19.0353 s; Throughput: 5.5005 GB/s
+[OUTPUT] 2025-06-23T01:58:44.061707 Starting saving checkpoint 10 after total step 10 for epoch 1
+[OUTPUT] 2025-06-23T01:58:47.717473 Saved model checkpoint in 3.6548 seconds
+[OUTPUT] 2025-06-23T01:59:04.212534 Saved optimizer checkpoint in 16.4949 seconds
+[OUTPUT] 2025-06-23T01:59:04.212749 Finished saving checkpoint 10 for epoch 1 in 20.1510 s; Throughput: 5.1960 GB/s
+[OUTPUT] 2025-06-23T01:59:04.214046 Checkpointing write finished
+[OUTPUT] 2025-06-23T01:59:04.214130 Checkpointing read started
+[OUTPUT] 2025-06-23T01:59:11.222173 Starting loading checkpoint 1 after total step 1 for epoch 1
+[OUTPUT] 2025-06-23T01:59:13.165293 Loaded model checkpoint in 1.9429 seconds
+[OUTPUT] 2025-06-23T01:59:22.786512 Loaded optimizer checkpoint in 9.6210 seconds
+[OUTPUT] 2025-06-23T01:59:22.786677 Finished loading checkpoint 1 for epoch 1 in 11.5645 s; Throughput: 9.0540 GB/s
+[OUTPUT] 2025-06-23T01:59:27.862827 Starting loading checkpoint 2 after total step 2 for epoch 1
+[OUTPUT] 2025-06-23T01:59:29.673189 Loaded model checkpoint in 1.8102 seconds
+[OUTPUT] 2025-06-23T01:59:39.344353 Loaded optimizer checkpoint in 9.6710 seconds
+[OUTPUT] 2025-06-23T01:59:39.344528 Finished loading checkpoint 2 for epoch 1 in 11.4817 s; Throughput: 9.1193 GB/s
+[OUTPUT] 2025-06-23T01:59:44.391285 Starting loading checkpoint 3 after total step 3 for epoch 1
+[OUTPUT] 2025-06-23T01:59:46.244931 Loaded model checkpoint in 1.8535 seconds
+[OUTPUT] 2025-06-23T01:59:55.798880 Loaded optimizer checkpoint in 9.5537 seconds
+[OUTPUT] 2025-06-23T01:59:55.799050 Finished loading checkpoint 3 for epoch 1 in 11.4078 s; Throughput: 9.1784 GB/s
+[OUTPUT] 2025-06-23T02:00:00.935153 Starting loading checkpoint 4 after total step 4 for epoch 1
+[OUTPUT] 2025-06-23T02:00:02.811313 Loaded model checkpoint in 1.8760 seconds
+[OUTPUT] 2025-06-23T02:00:12.295695 Loaded optimizer checkpoint in 9.4842 seconds
+[OUTPUT] 2025-06-23T02:00:12.295883 Finished loading checkpoint 4 for epoch 1 in 11.3607 s; Throughput: 9.2164 GB/s
+[OUTPUT] 2025-06-23T02:00:17.497922 Starting loading checkpoint 5 after total step 5 for epoch 1
+[OUTPUT] 2025-06-23T02:00:19.355794 Loaded model checkpoint in 1.8577 seconds
+[OUTPUT] 2025-06-23T02:00:29.013280 Loaded optimizer checkpoint in 9.6573 seconds
+[OUTPUT] 2025-06-23T02:00:29.013465 Finished loading checkpoint 5 for epoch 1 in 11.5155 s; Throughput: 9.0925 GB/s
+[OUTPUT] 2025-06-23T02:00:34.056660 Starting loading checkpoint 6 after total step 6 for epoch 1
+[OUTPUT] 2025-06-23T02:00:35.874938 Loaded model checkpoint in 1.8181 seconds
+[OUTPUT] 2025-06-23T02:00:45.397145 Loaded optimizer checkpoint in 9.5220 seconds
+[OUTPUT] 2025-06-23T02:00:45.397329 Finished loading checkpoint 6 for epoch 1 in 11.3407 s; Throughput: 9.2327 GB/s
+[OUTPUT] 2025-06-23T02:00:50.522295 Starting loading checkpoint 7 after total step 7 for epoch 1
+[OUTPUT] 2025-06-23T02:00:52.337696 Loaded model checkpoint in 1.8152 seconds
+[OUTPUT] 2025-06-23T02:01:01.928089 Loaded optimizer checkpoint in 9.5902 seconds
+[OUTPUT] 2025-06-23T02:01:01.928286 Finished loading checkpoint 7 for epoch 1 in 11.4060 s; Throughput: 9.1798 GB/s
+[OUTPUT] 2025-06-23T02:01:07.104646 Starting loading checkpoint 8 after total step 8 for epoch 1
+[OUTPUT] 2025-06-23T02:01:08.923094 Loaded model checkpoint in 1.8182 seconds
+[OUTPUT] 2025-06-23T02:01:18.478057 Loaded optimizer checkpoint in 9.5548 seconds
+[OUTPUT] 2025-06-23T02:01:18.478243 Finished loading checkpoint 8 for epoch 1 in 11.3736 s; Throughput: 9.2059 GB/s
+[OUTPUT] 2025-06-23T02:01:23.615515 Starting loading checkpoint 9 after total step 9 for epoch 1
+[OUTPUT] 2025-06-23T02:01:25.442060 Loaded model checkpoint in 1.8263 seconds
+[OUTPUT] 2025-06-23T02:01:35.028962 Loaded optimizer checkpoint in 9.5867 seconds
+[OUTPUT] 2025-06-23T02:01:35.029149 Finished loading checkpoint 9 for epoch 1 in 11.4136 s; Throughput: 9.1736 GB/s
+[OUTPUT] 2025-06-23T02:01:40.184936 Starting loading checkpoint 10 after total step 10 for epoch 1
+[OUTPUT] 2025-06-23T02:01:41.985436 Loaded model checkpoint in 1.8003 seconds
+[OUTPUT] 2025-06-23T02:01:51.584469 Loaded optimizer checkpoint in 9.5988 seconds
+[OUTPUT] 2025-06-23T02:01:51.584651 Finished loading checkpoint 10 for epoch 1 in 11.3997 s; Throughput: 9.1848 GB/s
+[OUTPUT] 2025-06-23T02:01:51.585769 Checkpointing write started
+[OUTPUT] 2025-06-23T02:01:51.682687 Saved outputs in /home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250623_015308
+[OUTPUT] Averaged metric over all steps/epochs
+[METRIC] ==========================================================
+[METRIC] Number of Simulated Accelerators: 8 
+[METRIC] Checkpoint save duration (seconds): 23.2978 (3.0104)
+[METRIC] Checkpoint save I/O Throughput (GB/second): 4.5754 (0.6321)
+[METRIC] Checkpoint load duration (seconds): 11.4264 (0.0679)
+[METRIC] Checkpoint load I/O Throughput (GB/second): 9.1637 (0.0542)
+[METRIC] ==========================================================
+
+[OUTPUT] 2025-06-23T02:01:51.692689 outputs saved in RANKID_output.json

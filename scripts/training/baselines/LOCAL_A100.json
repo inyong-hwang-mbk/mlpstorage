@@ -1,0 +1,48 @@
+{
+  "unet3d": {
+    "num-client-hosts": 1,
+    "client-host-memory-in-gb": 512,
+    "num-accelerators": 36,
+    "data-dir": "/mnt/mlperf_storage/training/data",
+    "param": {
+      "dataset.num_files_train": 45500,
+      "train.epochs": 1,
+      "train.total_training_steps": 100,
+      "reader.read_threads": 8,
+      "reader.computation_threads": 8,
+      "reader.transfer_size": 262144,
+      "reader.prefetch_size": 2
+    }
+  },
+  "cosmoflow": {
+    "num-client-hosts": 1,
+    "client-host-memory-in-gb": 512,
+    "num-accelerators": 44,
+    "data-dir": "/mnt/mlperf_storage/training/data",
+    "param": {
+      "dataset.num_files_train": 971819,
+      "train.epochs": 1,
+      "train.total_training_steps": 5000,
+      "reader.read_threads": 2,
+      "reader.computation_threads": 2,
+      "reader.transfer_size": 262144,
+      "reader.prefetch_size": 2
+    }
+  },
+  "resnet50": {
+    "num-client-hosts": 1,
+    "client-host-memory-in-gb": 512,
+    "num-accelerators": 109,
+    "data-dir": "/mnt/mlperf_storage/training/data",
+    "param": {
+      "dataset.num_files_train": 30695,
+      "train.epochs": 1,
+      "train.total_training_steps": 200,
+      "reader.read_threads": 8,
+      "reader.computation_threads": 8,
+      "reader.transfer_size": 262144,
+      "reader.prefetch_size": 2
+    }
+  }
+}
+

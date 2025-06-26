@@ -1,0 +1,53 @@
+[OUTPUT] 2025-06-04T11:03:24.318601 Profiling DLIO /home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110253/trace-0-of-1.pfw
+[OUTPUT] 2025-06-04T11:03:24.319507 Profiling DLIO /home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110253/trace-0-of-1.pfw
+[OUTPUT] 2025-06-04T11:03:24.319545 Profiling DLIO /home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110253/trace-0-of-1.pfw
+[OUTPUT] 2025-06-04T11:03:24.319614 Profiling DLIO /home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110253/trace-0-of-1.pfw
+[OUTPUT] 2025-06-04T11:03:24.320204 Running DLIO [Checkpointing] with 1 process(es)
+Error executing job with overrides: ['workload=llama3_8b', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+[OUTPUT] 2025-06-04T11:03:24.320997 Running DLIO [Checkpointing] with 1 process(es)
+[OUTPUT] 2025-06-04T11:03:24.321001 Running DLIO [Checkpointing] with 1 process(es)
+[OUTPUT] 2025-06-04T11:03:24.321081 Profiling DLIO /home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110253/trace-0-of-1.pfw
+[OUTPUT] 2025-06-04T11:03:24.321200 Running DLIO [Checkpointing] with 1 process(es)
+Traceback (most recent call last):
+  File "/home/inyong.hwang/.local/lib/python3.10/site-packages/dlio_benchmark/main.py", line 459, in run_benchmark
+    benchmark = DLIOBenchmark(cfg['workload'])
+Traceback (most recent call last):
+  File "/home/inyong.hwang/.local/lib/python3.10/site-packages/dlio_benchmark/main.py", line 459, in run_benchmark
+    benchmark = DLIOBenchmark(cfg['workload'])
+  File "/home/inyong.hwang/.local/lib/python3.10/site-packages/dlio_benchmark/main.py", line 96, in __init__
+    os.remove(self.args.logfile_path)
+Traceback (most recent call last):
+  File "/home/inyong.hwang/.local/lib/python3.10/site-packages/dlio_benchmark/main.py", line 96, in __init__
+    os.remove(self.args.logfile_path)
+  File "/home/inyong.hwang/.local/lib/python3.10/site-packages/dlio_benchmark/main.py", line 459, in run_benchmark
+    benchmark = DLIOBenchmark(cfg['workload'])
+  File "/home/inyong.hwang/.local/lib/python3.10/site-packages/dlio_benchmark/main.py", line 96, in __init__
+    os.remove(self.args.logfile_path)
+FileNotFoundError: [Errno 2] No such file or directory: '/home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110253/dlio.log'
+FileNotFoundError: [Errno 2] No such file or directory: '/home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110253/dlio.log'
+FileNotFoundError: [Errno 2] No such file or directory: '/home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110253/dlio.log'
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+[OUTPUT] 2025-06-04T11:03:24.321964 Running DLIO [Checkpointing] with 1 process(es)
+[OUTPUT] 2025-06-04T11:03:24.390605 Total number of parameters in the model: 8030261248
+[OUTPUT] 2025-06-04T11:03:24.390607 Total number of parameters in the model: 8030261248
+[OUTPUT] 2025-06-04T11:03:24.390618 Total number of parameters in the model: 8030261248
+[OUTPUT] 2025-06-04T11:03:24.390611 Total number of parameters in the model: 8030261248
+[OUTPUT] 2025-06-04T11:03:24.390615 Total number of parameters in the model: 8030261248
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[2774,1],5]
+  Exit code:    1
+--------------------------------------------------------------------------

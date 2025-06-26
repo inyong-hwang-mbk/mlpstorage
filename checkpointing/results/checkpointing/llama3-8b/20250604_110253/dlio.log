@@ -1,0 +1,3 @@
+[OUTPUT] 2025-06-04T11:03:24.321081 Profiling DLIO /home/inyong.hwang/workloads/mlpstorage/checkpointing/results/checkpointing/llama3-8b/20250604_110253/trace-0-of-1.pfw
+[OUTPUT] 2025-06-04T11:03:24.321964 Running DLIO [Checkpointing] with 1 process(es)
+[OUTPUT] 2025-06-04T11:03:24.390611 Total number of parameters in the model: 8030261248

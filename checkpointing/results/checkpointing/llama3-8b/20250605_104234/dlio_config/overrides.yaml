@@ -1,0 +1,6 @@
+- workload=llama3_8b
+- ++workload.checkpoint.mode=subset
+- ++workload.model.parallelism.data=1
+- ++workload.checkpoint.num_checkpoints_read=10
+- ++workload.checkpoint.num_checkpoints_write=10
+- ++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b

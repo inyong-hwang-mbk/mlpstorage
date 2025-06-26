@@ -1,0 +1,84 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1749087761.419227  822492 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1749087761.419222  822494 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1749087761.419250  822495 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1749087761.419250  822493 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1749087761.424161  822492 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1749087761.424166  822493 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1749087761.424166  822494 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1749087761.424171  822495 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+W0000 00:00:1749087761.438226  822492 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438244  822492 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438231  822495 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438247  822492 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438249  822492 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438250  822495 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438254  822495 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438255  822495 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438274  822493 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438291  822493 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438272  822494 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438290  822494 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438293  822494 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438294  822493 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438296  822493 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1749087761.438295  822494 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+[OUTPUT] 2025-06-05T10:42:47.240076 Running DLIO [Checkpointing] with 4 process(es)
+Error executing job with overrides: ['workload=llama3_8b', '++workload.checkpoint.mode=subset', '++workload.model.parallelism.data=1', '++workload.checkpoint.num_checkpoints_read=10', '++workload.checkpoint.num_checkpoints_write=10', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.checkpoint.mode=subset', '++workload.model.parallelism.data=1', '++workload.checkpoint.num_checkpoints_read=10', '++workload.checkpoint.num_checkpoints_write=10', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.checkpoint.mode=subset', '++workload.model.parallelism.data=1', '++workload.checkpoint.num_checkpoints_read=10', '++workload.checkpoint.num_checkpoints_write=10', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.checkpoint.mode=subset', '++workload.model.parallelism.data=1', '++workload.checkpoint.num_checkpoints_read=10', '++workload.checkpoint.num_checkpoints_write=10', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 227, in initialize
+    self.args.validate()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 227, in initialize
+    self.args.validate()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 227, in initialize
+    self.args.validate()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/utils/config.py", line 296, in validate
+    raise Exception(f"Comm size: {self.comm_size} is larger than 3D parallelism size: {self.data_parallelism * self.tensor_parallelism * self.pipeline_parallelism}")
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/utils/config.py", line 296, in validate
+    raise Exception(f"Comm size: {self.comm_size} is larger than 3D parallelism size: {self.data_parallelism * self.tensor_parallelism * self.pipeline_parallelism}")
+Exception: Comm size: 4 is larger than 3D parallelism size: 1
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/utils/config.py", line 296, in validate
+    raise Exception(f"Comm size: {self.comm_size} is larger than 3D parallelism size: {self.data_parallelism * self.tensor_parallelism * self.pipeline_parallelism}")
+Exception: Comm size: 4 is larger than 3D parallelism size: 1
+Exception: Comm size: 4 is larger than 3D parallelism size: 1
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+Traceback (most recent call last):
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 227, in initialize
+    self.args.validate()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/utils/config.py", line 296, in validate
+    raise Exception(f"Comm size: {self.comm_size} is larger than 3D parallelism size: {self.data_parallelism * self.tensor_parallelism * self.pipeline_parallelism}")
+Exception: Comm size: 4 is larger than 3D parallelism size: 1
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[2766,1],0]
+  Exit code:    1
+--------------------------------------------------------------------------

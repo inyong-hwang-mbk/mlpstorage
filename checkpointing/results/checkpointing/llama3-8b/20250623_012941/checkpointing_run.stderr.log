@@ -1,0 +1,268 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750642193.354496 2727851 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750642193.354598 2727857 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750642193.354707 2727853 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750642193.354635 2727854 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750642193.354735 2727856 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750642193.354692 2727858 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750642193.354769 2727852 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1750642193.354797 2727855 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1750642193.507089 2727856 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750642193.507029 2727855 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750642193.506965 2727854 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750642193.507164 2727858 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750642193.507162 2727853 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750642193.507220 2727857 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750642193.507218 2727851 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+E0000 00:00:1750642193.507316 2727852 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+W0000 00:00:1750642195.058993 2727853 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059065 2727853 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059075 2727853 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059084 2727853 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.058854 2727858 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.058886 2727858 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.058888 2727858 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.058890 2727858 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059003 2727851 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059064 2727851 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059071 2727851 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059079 2727851 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.058999 2727855 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059064 2727855 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059071 2727855 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059077 2727855 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.058957 2727852 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.058989 2727852 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.058991 2727852 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.058993 2727852 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059100 2727857 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059163 2727857 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059027 2727856 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059085 2727856 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059091 2727856 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059096 2727856 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059027 2727854 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059080 2727854 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059087 2727854 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059092 2727854 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059169 2727857 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1750642195.059176 2727857 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+[OUTPUT] 2025-06-23T01:30:23.041301 Running DLIO [Checkpointing] with 8 process(es)
+Error executing job with overrides: ['workload=llama3_8b', '++workload.reader.odirect=1', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.reader.odirect=1', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.reader.odirect=1', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.reader.odirect=1', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.reader.odirect=1', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.reader.odirect=1', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.reader.odirect=1', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Error executing job with overrides: ['workload=llama3_8b', '++workload.reader.odirect=1', '++workload.checkpoint.num_checkpoints_read=1', '++workload.checkpoint.num_checkpoints_write=1', '++workload.checkpoint.checkpoint_folder=/mnt/mlperf_storage/checkpointing/llama3_8b/llama3-8b']
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 231, in initialize
+    self.checkpointing_mechanism = CheckpointingFactory().get_mechanism(self.args.checkpoint_mechanism)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/checkpointing_factory.py", line 42, in get_mechanism
+    return PyTorchCheckpointing.get_instance()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 56, in get_instance
+    PyTorchCheckpointing.__instance = PyTorchCheckpointing()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 61, in __init__
+    super().__init__("pt")
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/base_checkpointing.py", line 70, in __init__
+    self.checkpoint_storage.create_namespace(exist_ok=True)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/storage/file_storage.py", line 48, in create_namespace
+    os.makedirs(self.namespace.name, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/mnt/mlperf_storage/checkpointing'
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+Traceback (most recent call last):
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 231, in initialize
+    self.checkpointing_mechanism = CheckpointingFactory().get_mechanism(self.args.checkpoint_mechanism)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/checkpointing_factory.py", line 42, in get_mechanism
+    return PyTorchCheckpointing.get_instance()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 56, in get_instance
+    PyTorchCheckpointing.__instance = PyTorchCheckpointing()
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 61, in __init__
+    super().__init__("pt")
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/base_checkpointing.py", line 70, in __init__
+    self.checkpoint_storage.create_namespace(exist_ok=True)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/storage/file_storage.py", line 48, in create_namespace
+    os.makedirs(self.namespace.name, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/mnt/mlperf_storage/checkpointing'
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 231, in initialize
+    self.checkpointing_mechanism = CheckpointingFactory().get_mechanism(self.args.checkpoint_mechanism)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/checkpointing_factory.py", line 42, in get_mechanism
+    return PyTorchCheckpointing.get_instance()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 56, in get_instance
+    PyTorchCheckpointing.__instance = PyTorchCheckpointing()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 61, in __init__
+    super().__init__("pt")
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/base_checkpointing.py", line 70, in __init__
+    self.checkpoint_storage.create_namespace(exist_ok=True)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/storage/file_storage.py", line 48, in create_namespace
+    os.makedirs(self.namespace.name, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 231, in initialize
+    self.checkpointing_mechanism = CheckpointingFactory().get_mechanism(self.args.checkpoint_mechanism)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/checkpointing_factory.py", line 42, in get_mechanism
+    return PyTorchCheckpointing.get_instance()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 56, in get_instance
+    PyTorchCheckpointing.__instance = PyTorchCheckpointing()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 61, in __init__
+    super().__init__("pt")
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/base_checkpointing.py", line 70, in __init__
+    self.checkpoint_storage.create_namespace(exist_ok=True)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/storage/file_storage.py", line 48, in create_namespace
+    os.makedirs(self.namespace.name, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 231, in initialize
+    self.checkpointing_mechanism = CheckpointingFactory().get_mechanism(self.args.checkpoint_mechanism)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/checkpointing_factory.py", line 42, in get_mechanism
+    return PyTorchCheckpointing.get_instance()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 56, in get_instance
+    PyTorchCheckpointing.__instance = PyTorchCheckpointing()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 61, in __init__
+    super().__init__("pt")
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/base_checkpointing.py", line 70, in __init__
+    self.checkpoint_storage.create_namespace(exist_ok=True)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/storage/file_storage.py", line 48, in create_namespace
+    os.makedirs(self.namespace.name, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/mnt/mlperf_storage/checkpointing'
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 231, in initialize
+    self.checkpointing_mechanism = CheckpointingFactory().get_mechanism(self.args.checkpoint_mechanism)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/checkpointing_factory.py", line 42, in get_mechanism
+    return PyTorchCheckpointing.get_instance()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 56, in get_instance
+    PyTorchCheckpointing.__instance = PyTorchCheckpointing()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 61, in __init__
+    super().__init__("pt")
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/base_checkpointing.py", line 70, in __init__
+    self.checkpoint_storage.create_namespace(exist_ok=True)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/storage/file_storage.py", line 48, in create_namespace
+    os.makedirs(self.namespace.name, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/mnt/mlperf_storage/checkpointing'
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 231, in initialize
+    self.checkpointing_mechanism = CheckpointingFactory().get_mechanism(self.args.checkpoint_mechanism)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/checkpointing_factory.py", line 42, in get_mechanism
+    return PyTorchCheckpointing.get_instance()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 56, in get_instance
+    PyTorchCheckpointing.__instance = PyTorchCheckpointing()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 61, in __init__
+    super().__init__("pt")
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/base_checkpointing.py", line 70, in __init__
+    self.checkpoint_storage.create_namespace(exist_ok=True)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/storage/file_storage.py", line 48, in create_namespace
+    os.makedirs(self.namespace.name, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/mnt/mlperf_storage/checkpointing'
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+PermissionError: [Errno 13] Permission denied: '/mnt/mlperf_storage/checkpointing'
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/mnt/mlperf_storage/checkpointing'
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+Traceback (most recent call last):
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 460, in run_benchmark
+    benchmark.initialize()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/main.py", line 231, in initialize
+    self.checkpointing_mechanism = CheckpointingFactory().get_mechanism(self.args.checkpoint_mechanism)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/checkpointing_factory.py", line 42, in get_mechanism
+    return PyTorchCheckpointing.get_instance()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 56, in get_instance
+    PyTorchCheckpointing.__instance = PyTorchCheckpointing()
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/pytorch_checkpointing.py", line 61, in __init__
+    super().__init__("pt")
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/checkpointing/base_checkpointing.py", line 70, in __init__
+    self.checkpoint_storage.create_namespace(exist_ok=True)
+  File "/home/inyong.hwang/venv/mlpstorage/lib/python3.10/site-packages/dlio_benchmark/storage/file_storage.py", line 48, in create_namespace
+    os.makedirs(self.namespace.name, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 215, in makedirs
+    makedirs(head, exist_ok=exist_ok)
+  File "/usr/lib/python3.10/os.py", line 225, in makedirs
+    mkdir(name, mode)
+PermissionError: [Errno 13] Permission denied: '/mnt/mlperf_storage/checkpointing'
+
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[45469,1],1]
+  Exit code:    1
+--------------------------------------------------------------------------
